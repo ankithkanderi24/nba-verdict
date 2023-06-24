@@ -1,5 +1,5 @@
 # nba-verdict
-A simple application to make it easier to reach a definitive verdict on an NBA player's all-time status! Done in an effort to improve my skills with APIs, Pandas, and Routing with a project I'm passionate about.
+A simple application to make it easier to reach a definitive verdict on an NBA player's all-time status! Done in an effort to improve my skills with APIs, Pandas, and Routing through a project I'm passionate about.
 
 # Issues (WIP)
 1. `nba_api` only has year-by-year data back until 1996, so unable to get championships before then
