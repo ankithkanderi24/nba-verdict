@@ -8,7 +8,8 @@ A simple application to make it easier to reach a definitive verdict on an NBA p
 
 # To get this working, just ...
 1. `git clone https://github.com/ankithkanderi24/nba-verdict.git`
-2. Change into project directory, and`python3 -m venv myenv`
+Change into project directory
+2. `python3 -m venv myenv`
 3. Then, `source myenv/bin/activate`
 4. `pip install flask`
 5. `pip install nba_api`
