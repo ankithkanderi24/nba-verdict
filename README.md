@@ -7,12 +7,11 @@ A simple application to make it easier to reach a definitive verdict on an NBA p
 3. Needs styling
 
 # To get this working, just ...
-1. `git clone https://github.com/ankithkanderi24/nba-verdict.git`
-
+`git clone https://github.com/ankithkanderi24/nba-verdict.git`  
 Change into project directory
-3. `python3 -m venv myenv`
-4. Then, `source myenv/bin/activate`
-5. `pip install flask`
-6. `pip install nba_api`
+1. `python3 -m venv myenv`
+2. Then, `source myenv/bin/activate`
+3. `pip install flask`
+4. `pip install nba_api`
 
 Have fun! You should be all set! 🏀🏀🏀🏀
