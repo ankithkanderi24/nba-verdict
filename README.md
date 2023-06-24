@@ -1,5 +1,5 @@
 # nba-verdict
-A simple application built using Flask to give me some experience with APIs, Routing, and Pandas. Goal is to make it easier to see core stats that are relevant to an NBA player's place in all-time debates. 
+A simple application to make it easier to reach a definitive verdict on an NBA player's all-time status! Done in an effort to improve my skills with APIs, Pandas, and Routing with a project I'm passionate about.
 
 # Issues (WIP)
 1. `nba_api` only has year-by-year data back until 1996, so unable to get championships before then
