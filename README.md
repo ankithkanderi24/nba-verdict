@@ -7,7 +7,7 @@ A simple application to make it easier to reach a definitive verdict on an NBA p
 3. Needs styling
 
 # To get this working, just ...
-`git clone https://github.com/ankithkanderi24/nba-verdict.git`\\
+`git clone https://github.com/ankithkanderi24/nba-verdict.git`\
 Change into project directory
 1. `python3 -m venv myenv`
 2. Then, `source myenv/bin/activate`
