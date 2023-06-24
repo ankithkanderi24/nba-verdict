@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NBA-Verdict</title>
+    <link rel="stylesheet" href="../static/home.css">
+</head>
+<body>
+    <h1>Enter two NBA names below!</h1>
+    <div id = "form">
+    
+    <form method = "POST" action = "{{url_for('comparisonPage')}}">
+
+        <label for = "p1name">Player 1 Name:</label>
+        <input type="text" id="p1name" name="p1name" required><br><br>
+
+        <label for = "p2name">Player 2 Name:</label>
+        <input type="text" id="p2name" name="p2name" required><br><br>
+
+        <input type="submit" value="Submit">
+
+        <p class = 'message'>{{hiddenText}}</p>
+
+    </form>
+    </div>
+    
+</body>
+</html>
